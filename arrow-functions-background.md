@@ -102,7 +102,7 @@ const age = 17;
 console.log(studentBio(firstName, lastName, age));
 ```
 
-### Rewrite These Functions As Arrow Functions:
+### Rewrite The Three Functions Below As Arrow Functions:
 
 ## Function 1
 Write an arrow function that:
