@@ -108,6 +108,7 @@ console.log(studentBio(firstName, lastName, age));
 Write an arrow function that:
 - asks the user which school they attend
 - takes two parameters (firstName, schoolName)
+- uses a default value of 'Bellaire High School' for the parameter schoolName
 - displays in the browser console a sentence that includes the user's first name and school name
 
 
@@ -119,7 +120,7 @@ Write an arrow function that:
 
 ## Function 3
 Write an arrow function that:
-- takes one parameter (num)
+- takes one parameter (num), and that parameter has a default value of 4
 - displays **in an alert box** the original number and the square of the original number
 > For example, the output string in your alert box might say: 
 
